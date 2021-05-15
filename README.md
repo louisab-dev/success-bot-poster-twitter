@@ -33,5 +33,5 @@ Also make sure that the created application can Write (by default it is on Read 
 
 ## 🚀 Deploying your own bot <a name = "deployment"></a>
 
-To host your Discord Bot 24/24, you can use Heroku and the process is detailed on a lot of videos that you can find online.
+To host your Discord Bot 24/24, you can use Heroku and the process is detailed on a lot of videos that you can find online. I added the Procfile and requirements.txt file in the repository so it will be very easy.
 
